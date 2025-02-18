@@ -21,3 +21,9 @@ def suma(a,b):
 print("El resultado de aldo es:", operacion_matematica(2, 3, 4))  
 print("El resultado de Paulo es:", suma(5+6))
 >>>>>>> c9e5b7e375f249c0522ab97c2d85141ccd55e476
+
+def resta(a, b):
+    return a - b
+
+print("El resultado de la resta es:", resta(10, 3))
+print("El resultado de una division es:", division(20, 2))
