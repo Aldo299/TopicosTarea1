@@ -27,3 +27,9 @@ def resta(a, b):
 
 print("El resultado de la resta es:", resta(10, 3))
 print("El resultado de una division es:", division(20, 2))
+
+def multiplicacion(a, b):
+    return a * b
+
+print("El resultado de la multiplicación es:", multiplicacion(10, 3))
+print("El resultado de una división es:", division(20, 2)) 
